@@ -22,7 +22,7 @@
     <li>science</li>
 </ul>
 <h2><a name="ii">3. Inserting Image</a></h2><br>
-<img src="\Users\A\Desktop\new\download.jpg" width="700" height="400"><br><br><br>
+<img src="\Users\A\Desktop\new\download.jpg"><br><br><br>
 <h2>4. Internal link</h2>
 <ol>
 <li><a href="#ol">Ordered List</a></li><br>
